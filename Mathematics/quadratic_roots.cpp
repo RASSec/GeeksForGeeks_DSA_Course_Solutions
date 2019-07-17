@@ -31,10 +31,7 @@ void quadraticRoots(int a,int b, int c)
     if(d > 0){
         double rootone = floor((-b + sqrt_d) / (2.0 * a));
         double roottwo = floor((-b - sqrt_d) / (2.0 * a));
-        if(rootone < roottwo)
-            printf("%.lf %.lf", roottwo, rootone);
-        else
-            printf("%.lf %.lf", rootone, roottwo);
+        rootone<roottwo?printf("%.lf %.lf", roottwo, rootone):printf("%.lf %.lf", rootone, roottwo);
     }else if(d == 0){ //when b^2 = 4ac
         printf("%.lf %.lf", (-b / (2.0*a)), (-b / (2.0*a)));
     }
