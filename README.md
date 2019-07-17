@@ -24,5 +24,6 @@
 - [Disjoint Set](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Disjoint_Set)
 - [More Problems](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/More)
 
-{% include_relative NOTE.md %}
+## Note:
+Only a registered student for the GeeksForGeeks DSA course can read the problem statement following the problem links shared here. Their [practice](https://practice.geeksforgeeks.org/) site has the free versions for most of the problems. One can search the site with the `problem title` and find them.
  - - - - 
