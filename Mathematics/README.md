@@ -5,8 +5,8 @@
 - [Convert Celsius To Fahrenheit](https://practice.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1/)
 - [Quadratic Equation Roots](https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1/?track=SPCF-Mathematics&batchId=154)
 - [Factorial of a number](https://practice.geeksforgeeks.org/problems/factorial-of-number/1)
-- [Digits in factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1) 
-    - Read: [Do log10(i) for i from 2 to n](https://www.geeksforgeeks.org/count-digits-factorial-set-1/), [Using kamenetsky's formula](https://www.geeksforgeeks.org/count-digits-factorial-set-2/)  
+- [Digits in factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1)
+    - Read: [Do log10(i) for i from 2 to n](https://www.geeksforgeeks.org/count-digits-factorial-set-1/), [Using kamenetsky's formula](https://www.geeksforgeeks.org/count-digits-factorial-set-2/)
 - [Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1)
 
 ## Solutions:
