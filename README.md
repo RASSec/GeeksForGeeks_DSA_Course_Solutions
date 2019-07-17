@@ -27,4 +27,4 @@ My solutions to 300+ problems. It also contain links to articles on the topics/c
 - [Disjoint Set](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Disjoint_Set)
 
 ## Note: 
-If you haven't bought the GeeksForGeeks DSA course then the links for the problems I shared here won't open for you. But don't worry their [practice](https://practice.geeksforgeeks.org/) site has free versions for most of the problems. You just have to search and find them on their website.
+If you haven't bought the GeeksForGeeks DSA course then the links for the problems I shared here won't open for you. But don't worry their [practice](https://practice.geeksforgeeks.org/) site has free versions for most of the problems. You just have to search their website for the same problem title and find them.
