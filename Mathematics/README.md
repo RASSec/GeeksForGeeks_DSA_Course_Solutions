@@ -6,3 +6,5 @@
 
 ## Solutions:
 [https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
+
+{% include_relative NOTE.md %}
