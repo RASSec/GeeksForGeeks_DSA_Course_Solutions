@@ -15,6 +15,8 @@
 - [Addition Under Modulo](https://practice.geeksforgeeks.org/problems/addition-under-modulo/1)
 - [Multiplication Under Modulo](https://practice.geeksforgeeks.org/problems/multiplication-under-modulo/1)
 - [Modular Multiplicative Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse/1)
+- [Count number of trailing zeros in N!](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
+    1. [Explanation](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 
 ## Solutions:
 [Click Here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
