@@ -3,7 +3,7 @@
 // when the value of N is very large
 // Formula: f(x) = log10( ((n/e)^n) * sqrt(2*pi*n))
 // applying property of logarithms
-// we get, f(x) = n * log10(( n/ e)) + log10(2*pi*n)/2 
+// we get, f(x) = n * log10((n/ e)) + log10(2*pi*n)/2 
 
 #include<bits/stdc++.h>
 using namespace std;
