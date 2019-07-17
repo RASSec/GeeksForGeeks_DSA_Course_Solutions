@@ -8,6 +8,7 @@
     1. [floor(log10(n!))+1](https://www.geeksforgeeks.org/count-digits-factorial-set-1/)
     2. [Using Kamenetsky's formula](https://www.geeksforgeeks.org/count-digits-factorial-set-2/)
 - [Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1)
+- [GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1/?track=SPCF-Mathematics&batchId=154)
 
 ## Solutions:
 [Click Here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
