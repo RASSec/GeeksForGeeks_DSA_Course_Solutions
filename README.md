@@ -1,5 +1,5 @@
 # GeeksForGeeks Data Structures and Algorithms Course Solutions
-My solutions to 300+ problems that I solved while taking the course. It also contain links to articles on the topics/concepts that I covered to solve the problems.
+My solutions to 300+ problems and also link to articles on the topics/concepts that I covered to during the course.
 # Categories
 - [Mathematics](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Mathematics)
 - [Bit Magic](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Bit_Magic)
@@ -27,5 +27,5 @@ My solutions to 300+ problems that I solved while taking the course. It also con
 - [More Problems](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/More)
 
 ## Note:
-Only a registered student for the GeeksForGeeks DSA course can read the problem statement following the problem links shared here. Their [practice](https://practice.geeksforgeeks.org/) site has the free versions for most of the problems. One can search the site with the `problem title` and find them.
+Only a registered student for the GeeksForGeeks DSA course can read the problem statement of the problem links shared here. Their [practice](https://practice.geeksforgeeks.org/) site has the free versions for most of the problems. One can search the site with the `problem title` and find them.
  - - - - 
