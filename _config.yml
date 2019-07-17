@@ -1,3 +1,6 @@
 theme: jekyll-theme-hacker
 title: GeeksForGeeks Data Structures and Algorithms Course Solutions
 description: My solutions to 300+ problems that I solved while taking the course. It also contain links to articles on the topics/concepts that I covered to solve the problems.
+navbar-links: 
+  Blog: "http://www.thecoducer.com/"
+  About Me: "http://www.thecoducer.com/p/about-mayukhdatta.html"
