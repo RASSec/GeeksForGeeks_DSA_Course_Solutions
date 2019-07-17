@@ -1,1 +1,1 @@
-# GeeksForGeeks_DSA_course_solutionss
+# GeeksForGeeks_DSA_Course_Solutions
