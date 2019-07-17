@@ -10,6 +10,7 @@
 - [GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1)
 - [Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1)
 - [Exactly 3 divisors](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1)
+    1. [Explanation](https://www.geeksforgeeks.org/numbers-exactly-3-divisors/)
 - [Mean And Median](https://practice.geeksforgeeks.org/problems/mean-and-median/1)
 - [Addition Under Modulo](https://practice.geeksforgeeks.org/problems/addition-under-modulo/1)
 - [Multiplication Under Modulo](https://practice.geeksforgeeks.org/problems/multiplication-under-modulo/1)
