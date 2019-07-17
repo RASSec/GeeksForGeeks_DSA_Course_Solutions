@@ -1,9 +1,6 @@
 # GeeksForGeeks Data Structures and Algorithms Course Solutions
 My solutions to 300+ problems and also links to articles on the topics/concepts that I have studied during the course.
 
-## Note:
-Only a registered student for the GeeksForGeeks DSA course can read the problem statements of the problems shared here. One can search their [practice](https://practice.geeksforgeeks.org/) site with the `problem title` and find the free versions for most of the problems.
-
 # Categories
 - [Mathematics](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Mathematics)
 - [Bit Magic](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Bit_Magic)
