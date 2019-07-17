@@ -1,2 +1,0 @@
-## Note:
-Only a registered student for the GeeksForGeeks DSA course can read the problem statements of the problems shared here. One can search their [practice](https://practice.geeksforgeeks.org/) site with the `problem title` and find the free versions for most of the problems.
