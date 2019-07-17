@@ -1,0 +1,2 @@
+## Note: 
+If you haven't bought the GeeksForGeeks DSA course then the links for the problems I shared here won't open for you. But don't worry their [practice](https://practice.geeksforgeeks.org/) site has free versions for most of the problems. You just have to search their website for the same problem title and find them.
