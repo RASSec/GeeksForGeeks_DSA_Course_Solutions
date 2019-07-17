@@ -24,3 +24,6 @@ int digitsInFactorial(int N)
         
     for(int i=2;i<=N;i++){
         digits += log10(i);
+    }
+    return floor(digits) + 1;
+}
