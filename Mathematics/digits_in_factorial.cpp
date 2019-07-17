@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-//Position this line where user code will be pasted.
+
 int digitsInFactorial(int N);
+
 int main()
 {
     int T;
@@ -14,8 +15,7 @@ int main()
     }
     return 0;
 }
-//User function Template for C++
-//You need to complete this function
+
 int digitsInFactorial(int N)
 {
     double digits = 0;
@@ -26,4 +26,5 @@ int digitsInFactorial(int N)
         digits += log10(i);
     }
     return floor(digits) + 1;
+    //time complexity - O(n)
 }
