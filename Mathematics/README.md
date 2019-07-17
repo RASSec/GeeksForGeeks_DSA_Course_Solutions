@@ -1,2 +1,4 @@
-# GeeksForGeeks Data Structures and Algorithms Course Solutions
-My solutions to 300+ problems I solved and links to articles of topics/concepts I covered while studying the course.
+# Mathematical
+- [Absolute Value](https://practice.geeksforgeeks.org/problems/absolute-value/1/) 
+    - [Solution](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/absolute_value.cpp)
+- []
