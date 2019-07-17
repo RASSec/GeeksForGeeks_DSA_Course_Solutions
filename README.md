@@ -29,5 +29,3 @@ Only a registered student for the GeeksForGeeks DSA course can read the problem 
 - [Segment Tree](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Segment_Tree)
 - [Disjoint Set](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Disjoint_Set)
 - [More Problems](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/More)
-
- - - - - 
