@@ -1,4 +1,4 @@
-## [<-- Go back to Home](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/)
+
 # Mathematics
 ## Problems:
 - [Absolute Value](https://practice.geeksforgeeks.org/problems/absolute-value/1/)
