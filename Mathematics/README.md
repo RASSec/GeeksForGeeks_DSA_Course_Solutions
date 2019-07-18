@@ -19,11 +19,15 @@
     - [Explanation](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
     - [Fermat's little theorem](https://www.geeksforgeeks.org/fermats-little-theorem/)
     - [Euclidean algorithms](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
-13. [Count number of trailing zeros in N!](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
-    - [Explanation](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 
 ## Solutions:
 [Click Here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
 
-## Miscellaneous
+## More problems
+1. [Count number of trailing zeros in N!](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
+    - [Explanation](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
+2. [Modular division](https://www.geeksforgeeks.org/modular-division/)
+
+## Extra reading
 - [Basic Number theory](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
+- [Practice Number Theory on Brilliant](https://brilliant.org/number-theory/)
