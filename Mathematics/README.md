@@ -17,8 +17,8 @@
 11. [Multiplication Under Modulo](https://practice.geeksforgeeks.org/problems/multiplication-under-modulo/1)
 12. [Modular Multiplicative Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse/1)
     - [Explanation](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
-    - [Fermat's little theorem](https://www.geeksforgeeks.org/fermats-little-theorem/)
     - [Euclidean algorithms](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
+    - [Fermat's little theorem](https://www.geeksforgeeks.org/fermats-little-theorem/)
 
 ## Solutions:
 [Click Here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
@@ -29,5 +29,6 @@
 2. [Modular division](https://www.geeksforgeeks.org/modular-division/)
 
 ## Extra reading
+- [Trick for modular division](https://www.geeksforgeeks.org/trick-modular-division-x1x2-xnbmodm/)
 - [Basic Number theory](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
 - [Practice Number Theory on Brilliant](https://brilliant.org/number-theory/)
