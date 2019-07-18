@@ -20,16 +20,16 @@
     - [Euclidean algorithms](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
     - [Fermat's little theorem](https://www.geeksforgeeks.org/fermats-little-theorem/)
 
-> Solutions are [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics).
-
 ## More problems
 1. [Count number of trailing zeros in N!](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
     - [Explanation](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 2. [Modular division](https://www.geeksforgeeks.org/modular-division/)
 
-> Solutions are [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Mathematics/More).
+## Solutions
+- For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
+- For more problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Mathematics/More).
 
-## Extra reading
+## Further reading
 - [Trick for modular division](https://www.geeksforgeeks.org/trick-modular-division-x1x2-xnbmodm/)
 - [Basic Number theory](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
 - [Practice Number Theory on Brilliant](https://brilliant.org/number-theory/)
