@@ -16,6 +16,9 @@
 10. [Addition Under Modulo](https://practice.geeksforgeeks.org/problems/addition-under-modulo/1)
 11. [Multiplication Under Modulo](https://practice.geeksforgeeks.org/problems/multiplication-under-modulo/1)
 12. [Modular Multiplicative Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse/1)
+    - [Explanation](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
+    - [Fermat's little theorem](https://www.geeksforgeeks.org/fermats-little-theorem/)
+    - [Euclidean algorithms](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
 13. [Count number of trailing zeros in N!](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
     - [Explanation](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 
