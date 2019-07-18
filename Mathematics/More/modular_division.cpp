@@ -29,7 +29,7 @@ void modDivide(int a, int b, int m)
 int modInverse(int b, int m) 
 { 
 	int x, y; // used in extended GCD algorithm
-	int g = extendedGCD(b, m, &x, &y); 
+	int g = extendedGCD(b, m, &x, &y);
 
 	// Return -1 if b and m are not co-prime 
 	if (g != 1) 
