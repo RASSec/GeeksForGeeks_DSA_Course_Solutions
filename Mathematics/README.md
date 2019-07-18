@@ -27,6 +27,7 @@
 1. [Count number of trailing zeros in N!](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
     - [Explanation](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 2. [Modular division](https://www.geeksforgeeks.org/modular-division/)
+###### [Click here]() for solutions
 
 ## Extra reading
 - [Trick for modular division](https://www.geeksforgeeks.org/trick-modular-division-x1x2-xnbmodm/)
