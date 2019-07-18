@@ -48,8 +48,12 @@ h1, h2, h3, h4, h5, h6 {
   margin:36px 0 10px;
 }
 
-p, ul, ol, table, dl {
+p, table, dl {
   margin:0 0 22px;
+}
+
+ul, ol {
+  margin:0 0 0px;
 }
 
 h1, h2, h3 {
