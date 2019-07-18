@@ -25,5 +25,5 @@
 ## Solutions:
 [Click Here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
 
-## More
+## Miscellaneous
 - [Basic Number theory](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
