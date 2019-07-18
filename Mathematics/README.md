@@ -7,6 +7,7 @@
 - [Digits in factorial](https://practice.geeksforgeeks.org/problems/count-digits-in-a-factorial/0) 
     1. [floor(log10(n!))+1](https://www.geeksforgeeks.org/count-digits-factorial-set-1/)
     2. [Using Kamenetsky's formula](https://www.geeksforgeeks.org/count-digits-factorial-set-2/)
+    3. [On my blog](http://www.thecoducer.com/2019/07/kamenetsky-formula-to-count-digits-in-factorial.html)
 - [GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1)
 - [Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1)
 - [Exactly 3 divisors](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1)
