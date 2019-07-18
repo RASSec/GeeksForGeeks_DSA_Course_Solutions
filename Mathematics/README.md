@@ -1,6 +1,6 @@
 # Mathematics
 ## Problems and notes:
-1. [Absolute Value](https://practice.geeksforgeeks.org/problems/absolute-value/1/)
+1. **[Absolute Value]**(https://practice.geeksforgeeks.org/problems/absolute-value/1/)
 2. [Convert Celsius To Fahrenheit](https://practice.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1/)
 3. [Quadratic Equation Roots](https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1)
 4. [Factorial of a number](https://practice.geeksforgeeks.org/problems/factorial-of-number/1)
