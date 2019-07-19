@@ -27,6 +27,7 @@ long long countdigits(int n){
     else
     {
         double x = ((n * log10(n / M_E)) + (log10(2 * M_PI * n) / 2.0)); 
+        cout<<x<<endl;
         return floor(x) + 1;
     }
 }
