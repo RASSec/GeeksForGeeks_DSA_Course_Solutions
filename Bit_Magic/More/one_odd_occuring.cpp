@@ -18,8 +18,23 @@ int main() {
 		// occuring element
 	    int rem = 0;
 	    for(i=0;i<n;i++){
-	        rem = rem ^ arr[i];
+	        rem = rem ^ arr[i]; // XOR of all numbers
 	    }
+		/**
+		 	arr[] = {3, 3, 3, 4, 5, 4, 5}
+			>>> 3^3
+			0
+			>>> 0^3
+			3
+			>>> 3^4
+			7
+			>>> 7^5
+			2
+			>>> 2^4
+			6
+			>>> 6^5
+			3
+		 */
 	    cout << rem << endl;
 	}
 	return 0;
