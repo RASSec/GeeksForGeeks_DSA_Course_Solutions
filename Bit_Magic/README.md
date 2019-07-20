@@ -2,7 +2,7 @@
 ## Problems and notes
 1. ^ [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
     - [Explanation](https://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
-2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/1)
+2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
     - [Explanation](https://www.geeksforgeeks.org/position-rightmost-different-bit/)
 3. ^ [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/1)
 4. ^ [Count total set bits](https://practice.geeksforgeeks.org/problems/set-bits/0)
@@ -28,7 +28,7 @@
 6. @ [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
 7. [Position of rightmost unset bit](https://www.geeksforgeeks.org/get-position-rightmost-unset-bit/)
 8. [Rightmost common bit of two numbers](https://www.geeksforgeeks.org/position-rightmost-common-bit-two-numbers/)
-9. ^ [Check set bits](https://practice.geeksforgeeks.org/problems/check-set-bits/0)
+9. ^ [Check all bits are set or not](https://practice.geeksforgeeks.org/problems/check-set-bits/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
