@@ -25,9 +25,9 @@
 4. [Find two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/0)
     - [Explanation](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)
 5. [Find two missing elements](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
-6. [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
+6. @ [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
 7. [Position of rightmost unset bit](https://www.geeksforgeeks.org/get-position-rightmost-unset-bit/)
-8. [Rightmost common bit](https://www.geeksforgeeks.org/position-rightmost-common-bit-two-numbers/)
+8. [Rightmost common bit of two numbers](https://www.geeksforgeeks.org/position-rightmost-common-bit-two-numbers/)
 9. ^ [Check set bits](https://practice.geeksforgeeks.org/problems/check-set-bits/0)
 
 ## Solutions
