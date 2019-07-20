@@ -9,7 +9,6 @@ int main()
     cin>>t;//testcases
     for(int i=0;i<t;i++)
     {
-        long long n; //input a number n
         cin>>n;
         if(n<=0) // if n is less than equal to zero then it can't be a power of 2
         {
@@ -26,5 +25,6 @@ int main()
 
 bool isPowerofTwo(long long n){
     // n must not be zero
+    // subtraction of 1 from a number toggles all the bits (from right to left) till the rightmost set bit(including the rightmost set bit).
     return (n && !(n & (n - 1)));
 }
