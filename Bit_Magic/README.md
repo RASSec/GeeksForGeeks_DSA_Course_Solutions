@@ -16,7 +16,8 @@
 
 ## More problems
 1. [Count bits in a number](https://www.geeksforgeeks.org/count-total-bits-number/)
-2. ^ [Count number of bits to be flipped to convert A to B](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
+2. ^ [Count number of bits to be flipped to convert A to B](https://practice.geeksforgeeks.org/problems/bit-difference/0)
+    - [Explanation](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
 3. ^ [Find one odd occuring element](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0)
     - [Explanation](https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
 4. [Find two odd occuring element](https://www.geeksforgeeks.org/two-odd-occurring-elements-array-occur-even-times/)
