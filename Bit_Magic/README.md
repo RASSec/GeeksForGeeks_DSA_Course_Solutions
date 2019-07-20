@@ -29,6 +29,9 @@
 7. [Position of rightmost unset bit](https://www.geeksforgeeks.org/get-position-rightmost-unset-bit/)
 8. [Rightmost common bit of two numbers](https://www.geeksforgeeks.org/position-rightmost-common-bit-two-numbers/)
 9. ^ [Check all bits are set or not](https://practice.geeksforgeeks.org/problems/check-set-bits/0)
+10. [Generate power set](https://practice.geeksforgeeks.org/problems/power-set/0)
+    - [Bitwise method](https://www.geeksforgeeks.org/power-set/)
+    - [Other methods](https://www.geeksforgeeks.org/recursive-program-to-generate-power-set/)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
