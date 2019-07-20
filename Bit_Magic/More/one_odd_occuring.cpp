@@ -11,6 +11,11 @@ int main() {
 	    for(i=0;i<n;i++){
 	        cin>>arr[i];
 	    }
+		// notice that all the even occuring elements
+		// form a pair. The pair cancel out in XOR
+		// and finally result in zero
+		// the remaining element we get is the one odd
+		// occuring element
 	    int rem = 0;
 	    for(i=0;i<n;i++){
 	        rem = rem ^ arr[i];
