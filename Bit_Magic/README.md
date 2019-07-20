@@ -9,13 +9,13 @@
     - [Explanation](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
 5. ^ [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/0)
     - [Count no. of bits to be flipped to convert A to B](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
-6. [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/1)
-7. [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s/1)
-8. [Gray Code](https://practice.geeksforgeeks.org/problems/gray-code/1)
-9. [Gray to Binary equivalent](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent/1)
+6. @ [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/1)
+7. @ [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s/1)
+8. @ [Gray Code](https://practice.geeksforgeeks.org/problems/gray-code/1)
+9. @ [Gray to Binary equivalent](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent/1)
 10. [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2/1)
-11. [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/1)
-12. [Maximum AND Value](https://practice.geeksforgeeks.org/problems/maximum-and-value/1)
+11. @ [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/1)
+12. @ [Maximum AND Value](https://practice.geeksforgeeks.org/problems/maximum-and-value/1)
 
 ## More problems
 1. [Count bits in a number](https://www.geeksforgeeks.org/count-total-bits-number/)
@@ -29,7 +29,7 @@
 7. [Position of rightmost unset bit](https://www.geeksforgeeks.org/get-position-rightmost-unset-bit/)
 8. [Rightmost common bit of two numbers](https://www.geeksforgeeks.org/position-rightmost-common-bit-two-numbers/)
 9. ^ [Check all bits are set or not](https://practice.geeksforgeeks.org/problems/check-set-bits/0)
-10. [Generate power set](https://practice.geeksforgeeks.org/problems/power-set/0)
+10. @ [Generate power set](https://practice.geeksforgeeks.org/problems/power-set/0)
     - [Bitwise method](https://www.geeksforgeeks.org/power-set/)
     - [Other methods](https://www.geeksforgeeks.org/recursive-program-to-generate-power-set/)
 

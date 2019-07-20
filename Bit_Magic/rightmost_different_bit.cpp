@@ -9,7 +9,7 @@ int main(void)
 	    scanf("%d %d", &m, &n);
 	    // xor two nos.
 	    unsigned int k = (m ^ n);
-	    // find the position of
+	    // now find the position of
 	    // rightmost set bit
 	    // occurs in xor when
 	    // two elements are different
