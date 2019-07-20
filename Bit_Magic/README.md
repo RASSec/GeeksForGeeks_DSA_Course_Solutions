@@ -2,8 +2,8 @@
 ## Problems and notes:
 1. [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit/1)
 2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/1)
-3. [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/1)
-4. [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits/1)
+3. ^ [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/1)
+4. ^ [Count total set bits](https://practice.geeksforgeeks.org/problems/set-bits/0)
     - [Explanation](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
 5. [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/1)
 6. [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/1)
