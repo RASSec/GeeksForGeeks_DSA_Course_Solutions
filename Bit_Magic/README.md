@@ -25,6 +25,8 @@
     - [Explanation](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)
 5. [Find two missing elements](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
 6. [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
+7. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
+    - [Explanation](https://www.geeksforgeeks.org/position-rightmost-different-bit/)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
