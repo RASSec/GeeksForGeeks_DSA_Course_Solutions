@@ -24,6 +24,7 @@
 5. [Find two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/0)
     - [Explanation](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)
 6. [Find two missing elements](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
+7. [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
