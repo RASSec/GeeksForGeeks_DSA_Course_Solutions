@@ -27,6 +27,8 @@
 5. [Find two missing elements](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
 6. [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
 7. [Position of rightmost unset bit](https://www.geeksforgeeks.org/get-position-rightmost-unset-bit/)
+8. [Rightmost common bit](https://www.geeksforgeeks.org/position-rightmost-common-bit-two-numbers/)
+9. ^ [Check set bits](https://practice.geeksforgeeks.org/problems/check-set-bits/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
