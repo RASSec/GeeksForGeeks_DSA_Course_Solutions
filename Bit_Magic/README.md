@@ -21,4 +21,4 @@
 - For more problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Bit_Magic/More).
 
 ## Further reading
-- 
+- [Bit manipulation on HackerEarth](https://www.hackerearth.com/practice/notes/bit-manipulation/)

@@ -23,6 +23,11 @@ int main()
 }
 
 bool checkKthBit(int n, int k){
+	// right shift n by k
+	// then do & with 1
+	// if rightmost bit is 1
+	// it will return a non-zero int
+	// therefore results true
     if((n >> k) & 1)
         return true;
     else

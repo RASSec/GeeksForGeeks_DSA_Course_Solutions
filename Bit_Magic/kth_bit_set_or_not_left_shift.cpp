@@ -23,6 +23,11 @@ int main()
 }
 
 bool checkKthBit(int n, int k){
+	// left shift 1 by k 
+	// if that number matches n
+	// that means doing & operation
+	// between them must give a non-zero int
+	// therefore results true
     if(n & (1 << k))
         return true;
     else
