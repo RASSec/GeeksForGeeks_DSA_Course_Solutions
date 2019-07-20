@@ -3,6 +3,7 @@
 1. ^ [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
     - [Explanation](https://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
 2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/1)
+    - [Explanation](https://www.geeksforgeeks.org/position-rightmost-different-bit/)
 3. ^ [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/1)
 4. ^ [Count total set bits](https://practice.geeksforgeeks.org/problems/set-bits/0)
     - [Explanation](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
@@ -25,8 +26,7 @@
     - [Explanation](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)
 5. [Find two missing elements](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
 6. [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
-7. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
-    - [Explanation](https://www.geeksforgeeks.org/position-rightmost-different-bit/)
+7. [Position of rightmost unset bit](https://www.geeksforgeeks.org/get-position-rightmost-unset-bit/)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)

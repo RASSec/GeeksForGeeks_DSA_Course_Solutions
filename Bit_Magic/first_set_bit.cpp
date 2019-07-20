@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// program to find rightmost set bit
 int main(void)
  {
 	int t, n;
