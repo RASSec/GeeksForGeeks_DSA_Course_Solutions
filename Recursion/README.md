@@ -6,6 +6,7 @@
 3. [Count Total Digits in a Number](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1)
 4. [Digital Root](https://practice.geeksforgeeks.org/problems/digital-root/1)
 5. [Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1)
+    - [Explanation](https://www.youtube.com/watch?v=zg-ddPbzcKM)
 6. [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/1)
 7. ^ [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 8. [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1)
@@ -14,6 +15,10 @@
 11. ^ [Possible Words From Phone Digits](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits/1)
 
 ## More problems
+1. 
 
+## Solutions
+- For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Recursion)
+- For more problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Recursion/More).
 
 ## Further reading
