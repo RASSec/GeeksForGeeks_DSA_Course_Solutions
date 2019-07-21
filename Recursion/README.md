@@ -15,7 +15,7 @@
 11. ^ [Possible Words From Phone Digits](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits/1)
 
 ## More problems
-1. 
+1. [Check palindrome or not](https://www.geeksforgeeks.org/recursive-function-check-string-palindrome/)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Recursion)
