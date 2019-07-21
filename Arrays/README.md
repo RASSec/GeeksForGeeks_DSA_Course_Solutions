@@ -19,9 +19,9 @@
 16. [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 17. ^ [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/1)
 18. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/1)
-19. [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/1)
+19. ^ [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/1)
 20. [Check if array is sorted and rotated](https://practice.geeksforgeeks.org/problems/check-if-array-is-sorted-and-rotated-clockwise/1)
-21. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/1)
+21. ^ [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/1)
 22. [Max Circular Subarray Sum](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum/1)
 
 ## More problems
