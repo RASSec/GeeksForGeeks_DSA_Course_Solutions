@@ -26,10 +26,11 @@
     - [Explanation](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)
 5. [Find two missing elements](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
 6. @ [Find even occuring element](https://practice.geeksforgeeks.org/problems/even-occurring-elements/0)
+    - [Explanation](https://www.geeksforgeeks.org/find-even-occurring-elements-array-limited-range/)
 7. [Position of rightmost unset bit](https://www.geeksforgeeks.org/get-position-rightmost-unset-bit/)
 8. [Rightmost common bit of two numbers](https://www.geeksforgeeks.org/position-rightmost-common-bit-two-numbers/)
 9. ^ [Check all bits are set or not](https://practice.geeksforgeeks.org/problems/check-set-bits/0)
-10. @ [Generate power set](https://practice.geeksforgeeks.org/problems/power-set/0)
+10. [Generate power set](https://practice.geeksforgeeks.org/problems/power-set/0)
     - [Bitwise method](https://www.geeksforgeeks.org/power-set/)
     - [Other methods](https://www.geeksforgeeks.org/recursive-program-to-generate-power-set/)
 
@@ -39,3 +40,4 @@
 
 ## Further reading
 - [Bit manipulation on HackerEarth](https://www.hackerearth.com/practice/notes/bit-manipulation/)
+- [Binary subsets](http://www.keithschwarz.com/binary-subsets/)
