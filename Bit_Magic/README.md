@@ -14,7 +14,8 @@
 8. @ [Gray Code](https://practice.geeksforgeeks.org/problems/gray-code/1)
 9. @ [Gray to Binary equivalent](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent/1)
 10. [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2/1)
-11. @ [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/1)
+11. [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0)
+    - [Explanation](https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/)
 12. @ [Maximum AND Value](https://practice.geeksforgeeks.org/problems/maximum-and-value/1)
 
 ## More problems
