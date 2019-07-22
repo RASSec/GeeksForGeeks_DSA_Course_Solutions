@@ -1,5 +1,5 @@
 # GeeksForGeeks Data Structures and Algorithms Course Solutions
-My solutions to 300+ problems and also links to articles on the topics/concepts that I have studied during the course.
+My solutions to the course problems and other related problems. This repository also contain links to articles on the topics/concepts that I have studied during the course.
 
 # Categories
 1. [Mathematics](https://thecoducer.github.io/GeeksForGeeks_DSA_Course_Solutions/Mathematics)
