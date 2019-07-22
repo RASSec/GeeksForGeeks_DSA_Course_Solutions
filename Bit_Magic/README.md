@@ -34,6 +34,7 @@
 10. [Generate power set](https://practice.geeksforgeeks.org/problems/power-set/0)
     - [Bitwise method](https://www.geeksforgeeks.org/power-set/)
     - [Other methods](https://www.geeksforgeeks.org/recursive-program-to-generate-power-set/)
+11. [Bleak numbers](https://practice.geeksforgeeks.org/problems/bleak-numbers/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
