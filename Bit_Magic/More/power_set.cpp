@@ -28,6 +28,12 @@ int main(void)
 void printPowerSet(char* set, int n){
     unsigned int subsetNos = pow(2, n);
     
+    // n is number of characters
+    // we have 2^n combinations i.e. subsetNos
+    // subsetNos: 0 to ((2^n) - 1)
+    // for each subsetNos we go from 0 to n
+    // and check the position of set bits in it
+    // and print them
     for(int i=0;i<subsetNos;i++){
         for(int j=0;j<n;j++){
             if(i & (1 << j)){
