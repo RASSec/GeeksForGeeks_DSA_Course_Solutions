@@ -26,6 +26,8 @@
     - [Explanation](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 2. [Modular division](https://www.geeksforgeeks.org/modular-division/)
 3. [Modular exponentiation](https://practice.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers/0)
+    - [Recursive](https://www.geeksforgeeks.org/modular-exponentiation-recursive/)
+    - [Iterative](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)

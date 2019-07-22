@@ -10,7 +10,8 @@
 6. [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/1)
 7. ^ [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 8. [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1)
-9. ^ [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers/1)
+9. ^ [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers/0)
+    - [Explanation](https://www.geeksforgeeks.org/modular-exponentiation-recursive/)
 10. [Power Set Using Recursion](https://practice.geeksforgeeks.org/problems/power-set-using-recursion/1)
 11. ^ [Possible Words From Phone Digits](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits/1)
 
