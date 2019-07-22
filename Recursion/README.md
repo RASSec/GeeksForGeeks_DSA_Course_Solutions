@@ -12,7 +12,8 @@
 5. [Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1)
     - [Explanation](https://www.youtube.com/watch?v=zg-ddPbzcKM)
 6. @ [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/1)
-7. @ ^ [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+7. ^ [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+    - [Explanation](https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/)
 8. [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1)
 9. ^ [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers/0)
     - [Explanation](https://www.geeksforgeeks.org/modular-exponentiation-recursive/)
@@ -27,3 +28,4 @@
 - For more problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Recursion/More).
 
 ## Further reading
+- [Clock modulo math](https://medium.com/i-math/intro-to-modular-arithmetic-34ad9d4537d1)
