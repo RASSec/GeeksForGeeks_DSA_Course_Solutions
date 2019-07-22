@@ -9,17 +9,15 @@ int countDigits(int n)
         return (1 + countDigits(n / 10));
 }
 
-int main() {
+int main()
+{
 	int T;
 	cin>>T;
 	while(T--)
 	{
 	    int n;
 	    cin>>n;
-	    
 	    cout<<countDigits(n)<<endl;
-	    
-	    
 	}
 	return 0;
 }
