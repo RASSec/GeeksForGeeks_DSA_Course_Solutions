@@ -5,7 +5,7 @@ using namespace std;
 void findTwoMissingNumbers(int arr[], int n);
 
 int main() 
-{ 
+{
 	int arr[MAX], n;
 
     scanf("%d", &n);
