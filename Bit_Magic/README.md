@@ -35,6 +35,8 @@
     - [Bitwise method](https://www.geeksforgeeks.org/power-set/)
     - [Other methods](https://www.geeksforgeeks.org/recursive-program-to-generate-power-set/)
 11. [Bleak numbers](https://practice.geeksforgeeks.org/problems/bleak-numbers/0)
+12. [Decimal to binary](https://practice.geeksforgeeks.org/problems/decimal-to-binary/0)
+13. [Binary to decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
