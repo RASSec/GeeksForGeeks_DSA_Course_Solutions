@@ -28,4 +28,4 @@
 - For more problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Recursion/More).
 
 ## Further reading
-- [Clock modulo math](https://medium.com/i-math/intro-to-modular-arithmetic-34ad9d4537d1)
+- [Clock modular math](https://medium.com/i-math/intro-to-modular-arithmetic-34ad9d4537d1)
