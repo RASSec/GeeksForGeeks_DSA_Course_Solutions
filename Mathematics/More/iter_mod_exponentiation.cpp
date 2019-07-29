@@ -3,7 +3,7 @@ using namespace std;
 #define MAX 100000
 #define unsigned long long ll
 
-int modPow(int a, int b, int c);
+int modPow(int x, int n, int m);
 
 int main(void)
 {
