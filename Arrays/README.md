@@ -25,7 +25,7 @@
 22. [Max Circular Subarray Sum](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum/1)
 
 ## More problems
-
+1. [Reverse a array](https://practice.geeksforgeeks.org/problems/reverse-the-string/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays)
