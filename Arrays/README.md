@@ -7,7 +7,9 @@
 4. [Max and Second Max](https://practice.geeksforgeeks.org/problems/max-and-second-max/1)
 5. [Strongest Neighbour](https://practice.geeksforgeeks.org/problems/strongest-neighbour/1)
 6. [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1)
-7. ^ [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/1)
+7. ^ [Rotate Array (left rotation)](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/1)
+    - [Explanation](https://www.geeksforgeeks.org/array-rotation/)
+    - [Recursive approach](https://www.geeksforgeeks.org/c-program-for-reversal-algorithm-for-array-rotation/)
 8. [Minimum adjacent difference in a circular array](https://practice.geeksforgeeks.org/problems/minimum-absloute-difference-between-adjacent-elements-in-a-circular-array/1)
 9. [Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1)
 10. ^ [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array/1)
@@ -25,7 +27,7 @@
 22. [Max Circular Subarray Sum](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum/1)
 
 ## More problems
-1. [Reverse a array](https://practice.geeksforgeeks.org/problems/reverse-the-string/0)
+1. ^ [Reverse a array](https://practice.geeksforgeeks.org/problems/reverse-the-string/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays)
