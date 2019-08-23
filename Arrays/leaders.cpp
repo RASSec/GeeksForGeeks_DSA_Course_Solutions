@@ -28,6 +28,7 @@ int main()
    }
 }
 
+// This method scans from right
 vector<int> leaders(int arr[], int n){
     vector<int> v;
     
