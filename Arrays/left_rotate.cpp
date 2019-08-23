@@ -31,6 +31,7 @@ int main(void)
 }
 
 void rotateArray(int* arr, int d, int n){
+    d = d % n; //handles corner cases; when d > n
     reverse(arr, 0, d-1);
     reverse(arr, d, n-1);
     reverse(arr, 0, n-1);
