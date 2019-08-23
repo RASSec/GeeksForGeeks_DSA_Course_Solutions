@@ -36,7 +36,7 @@ void printPowerSet(char* set, int n){
     // and print them
     for(int i=0;i<subsetNos;i++){
         for(int j=0;j<n;j++){
-            if(i & (1 << j)){
+            if((i & (1 << j)) != 0){
                 cout << set[j];
             }
         }
