@@ -20,7 +20,7 @@
 15. ^ [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/1)
 16. [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 17. ^ [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/1)
-18. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/1)
+18. ^ [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/1)
 19. ^ [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/1)
 20. [Check if array is sorted and rotated](https://practice.geeksforgeeks.org/problems/check-if-array-is-sorted-and-rotated-clockwise/1)
 21. ^ [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/1)
@@ -29,6 +29,7 @@
 ## More problems
 1. ^ [Reverse a array](https://practice.geeksforgeeks.org/problems/reverse-the-string/0)
 2. [Right rotation](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/)
+3. ^ [Rotate and delete](https://practice.geeksforgeeks.org/problems/rotate-and-delete/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays)
