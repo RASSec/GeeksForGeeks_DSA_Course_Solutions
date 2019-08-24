@@ -32,6 +32,7 @@
 1. ^ [Reverse a array](https://practice.geeksforgeeks.org/problems/reverse-the-string/0)
 2. [Right rotation](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/)
 3. ^ [Rotate and delete](https://practice.geeksforgeeks.org/problems/rotate-and-delete/0)
+4. ^ [Maximum difference](https://practice.geeksforgeeks.org/problems/maximum-difference/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays)
