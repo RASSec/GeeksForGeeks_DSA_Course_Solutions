@@ -23,6 +23,7 @@
 18. ^ [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
     - [Explanation](https://www.geeksforgeeks.org/trapping-rain-water/)
 19. ^ [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+    - [Explanation](https://www.geeksforgeeks.org/stock-buy-sell/)
 20. [Check if array is sorted and rotated](https://practice.geeksforgeeks.org/problems/check-if-array-is-sorted-and-rotated-clockwise/1)
 21. ^ [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/1)
 22. [Max Circular Subarray Sum](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum/1)
