@@ -39,7 +39,7 @@ void stockBuySell(int price[], int n){
     while(i < n-1){
         // Find local minima. Note that the limit is (n-2) as we are 
         // comparing present element to the next element.
-        while((i < n-1) && (price[i+1]<=price[i]))
+        while((i < n-1) && (price[i+1] <= price[i]))
             i++;
             
         // if we reached the end, break
