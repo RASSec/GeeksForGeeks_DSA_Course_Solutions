@@ -33,7 +33,7 @@ int maxOccuredElement(int L[], int R[], int n){
         arr[L[i]] += 1;
         arr[R[i]+1] -= 1;
         if(R[i]>maxR){
-            maxR = R[i];
+            maxR = R[i]+1;
         }
     }
 
