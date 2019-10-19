@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+int maxOccured(int L[], int R[], int n, int maxx);
+
 int arr[1000000];
 
 int main() {

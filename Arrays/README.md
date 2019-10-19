@@ -13,6 +13,7 @@
 8. [Minimum adjacent difference in a circular array](https://practice.geeksforgeeks.org/problems/minimum-absloute-difference-between-adjacent-elements-in-a-circular-array/1)
 9. [Maximum occured integer](https://www.geeksforgeeks.org/maximum-occurred-integer-n-ranges/)
 10. ^ [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array/1)
+    - [Explanation](https://www.geeksforgeeks.org/sort-array-wave-form-2/)
 11. ^ [Frequencies of Limited Range Array Elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1)
 12. ^ [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/1)
 13. ^ [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/1)
