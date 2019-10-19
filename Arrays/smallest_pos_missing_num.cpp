@@ -35,7 +35,7 @@ int findMissingPositive(int arr[], int n) {
     // from 0 and positive numbers start from 1 
     for(int i=0; i<n; i++) {
 	    if(abs(arr[i]) - 1 < n && arr[ abs(arr[i]) - 1] > 0) 
-	    arr[ abs(arr[i]) - 1] = -arr[ abs(arr[i]) - 1]; 
+	        arr[ abs(arr[i]) - 1] = -arr[ abs(arr[i]) - 1]; 
     } 
     // Return the first index value at which is positive 
     for(int i=0; i<n; i++) 
