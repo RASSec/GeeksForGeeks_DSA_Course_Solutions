@@ -20,6 +20,7 @@
 13. ^ [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/1)
 14. ^ [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1)
 15. ^ [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/1)
+    - [Explanation](https://www.geeksforgeeks.org/rearrange-array-maximum-minimum-form-set-2-o1-extra-space/)
 16. [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 17. ^ [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/1)
 18. ^ [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
