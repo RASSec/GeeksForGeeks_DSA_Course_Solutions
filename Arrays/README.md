@@ -15,6 +15,7 @@
 10. ^ [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array/1)
     - [Explanation](https://www.geeksforgeeks.org/sort-array-wave-form-2/)
 11. ^ [Frequencies of Limited Range Array Elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1)
+    - [Explanation](https://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/)
 12. ^ [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/1)
 13. ^ [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/1)
 14. ^ [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1)
