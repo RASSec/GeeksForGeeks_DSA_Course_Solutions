@@ -43,12 +43,22 @@ void rearrange(int *arr, int n)
     max_index = n-1;
     
     max_element = arr[n-1] + 1; //can be any number greater the maximun in the array
+
+    /* This solution uses the technique of multiplication and modulus. 
+        After this,
+        arr[i] += (arr[max_index] % max_element) * max_element
+
+        If we do arr[i]/max_element, we get the new element back whereas 
+        if we do arr[i]%max_element we get the original element back.
+     */
     
     for(int i=0;i<n;i++) {
         if(i%2 == 0) {
+            //even places
             arr[i] += (arr[max_index] % max_element) * max_element;
             max_index--;
         }else{
+            //odd places
             arr[i] += (arr[min_index] % max_element) * max_element;
             min_index++;
         }
