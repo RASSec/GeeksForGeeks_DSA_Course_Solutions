@@ -45,8 +45,9 @@ int findMissingPositive(int arr[], int n) {
     return n+1; 
 } 
 
+
 int missingNumber(int arr[], int n) { 
     // First separate positive and negative numbers 
     int shift = segregateArr(arr, n); 
     return findMissingPositive(arr+shift, n-shift); 
-} 
+}
