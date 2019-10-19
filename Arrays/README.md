@@ -11,7 +11,7 @@
     - [Explanation](https://www.geeksforgeeks.org/array-rotation/)
     - [Reversal approach](https://www.geeksforgeeks.org/c-program-for-reversal-algorithm-for-array-rotation/)
 8. [Minimum adjacent difference in a circular array](https://practice.geeksforgeeks.org/problems/minimum-absloute-difference-between-adjacent-elements-in-a-circular-array/1)
-9. [Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1)
+9. [Maximum occured integer](https://www.geeksforgeeks.org/maximum-occurred-integer-n-ranges/)
 10. ^ [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array/1)
 11. ^ [Frequencies of Limited Range Array Elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1)
 12. ^ [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/1)
@@ -35,7 +35,6 @@
 4. ^ [Maximum difference](https://practice.geeksforgeeks.org/problems/maximum-difference/0)
     - [Explanation](https://www.geeksforgeeks.org/maximum-difference-between-two-elements/)
 5. ^ [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k/0)
-6. ^ [Maximum occured integer in n ranges](https://www.geeksforgeeks.org/maximum-occurred-integer-n-ranges/)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays)
