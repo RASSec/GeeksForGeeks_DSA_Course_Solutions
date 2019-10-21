@@ -23,6 +23,7 @@
     - [Explanation](https://www.geeksforgeeks.org/rearrange-array-maximum-minimum-form-set-2-o1-extra-space/)
 16. [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 17. ^ [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/1)
+    - [Explanation](https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/)
 18. ^ [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
     - [Explanation](https://www.geeksforgeeks.org/trapping-rain-water/)
 19. ^ [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
