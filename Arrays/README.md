@@ -1,6 +1,6 @@
 # Arrays
 
-## Problems and notes:
+## Problems and notes
 1. [Array insert at end](https://practice.geeksforgeeks.org/problems/array-insert-at-end/1)
 2. [Array insert at index](https://practice.geeksforgeeks.org/problems/array-insert-at-index/1)
 3. [Who has the majority?](https://practice.geeksforgeeks.org/problems/who-has-the-majority/1)
