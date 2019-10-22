@@ -30,8 +30,9 @@
     - [Iterative](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
 4. [Special series sum](https://practice.geeksforgeeks.org/problems/special-series-sum/0)
     - [O(1) solution](https://www.geeksforgeeks.org/sum-of-the-series-1-12-123-1234-1234-n/)
-5. [A simple fraction](https://practice.geeksforgeeks.org/problems/a-simple-fraction/0)
+5. @[A simple fraction](https://practice.geeksforgeeks.org/problems/a-simple-fraction/0)
     - [Find Recurring Sequence in a Fraction](https://www.geeksforgeeks.org/find-recurring-sequence-fraction/)
+6. @[Find maximum number that can be formed using digits of a given number](https://practice.geeksforgeeks.org/problems/find-maximum-number/0)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
