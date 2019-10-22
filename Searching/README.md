@@ -12,6 +12,13 @@
 9. [Minimum Number in a sorted rotated array](https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array/1/?track=SPCF-Searching&batchId=154)
 10. [Two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/1/?track=SPCF-Searching&batchId=154)
 11. [Roof Top](https://practice.geeksforgeeks.org/problems/roof-top/1/?track=SPCF-Searching&batchId=154)
+12. ^ [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1/?track=SPCF-Searching&batchId=154)
+13. [Count only Repeated](https://practice.geeksforgeeks.org/problems/count-only-repeated/0/?track=SPCF-Searching&batchId=154)
+14. ^ [Count More than n/k Occurences](https://practice.geeksforgeeks.org/problems/count-element-occurences/1/?track=SPCF-Searching&batchId=154)
+15. ^ [Allocate minimum number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0/?track=SPCF-Searching&batchId=154)
+16. ^ [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/1/?track=SPCF-Searching&batchId=154)
+17. ^ [Median of Two sorted arrays](https://practice.geeksforgeeks.org/problems/median-of-two-sorted-arrays/0/?track=SPCF-Searching&batchId=154)
+
 
 ## More problems
 
