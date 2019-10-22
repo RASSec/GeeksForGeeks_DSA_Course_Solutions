@@ -50,9 +50,6 @@
 
 6. @[Find maximum number that can be formed using digits of a given number](https://practice.geeksforgeeks.org/problems/find-maximum-number/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/find_max_num_rearrange_digits.cpp)
 
-## Solutions
-- For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics)
-- For more problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/tree/master/Mathematics/More).
 
 ## Further reading
 - [Trick for modular division](https://www.geeksforgeeks.org/trick-modular-division-x1x2-xnbmodm/)
