@@ -1,14 +1,14 @@
 # Searching
 
 ## Problems and notes
-1. [Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-2. ^ [Searching an element in a sorted array](https://practice.geeksforgeeks.org/problems/who-will-win/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-3. [Count 1's in binary array](https://practice.geeksforgeeks.org/problems/count-1s-in-binary-array/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-4. ^ [Square root](https://practice.geeksforgeeks.org/problems/square-root/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-5. ^ [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-6. [Left Index](https://practice.geeksforgeeks.org/problems/left-index/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-7. ^ [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-8. ^ [Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
+1. [Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/search_array.cpp)
+2. ^ [Searching an element in a sorted array](https://practice.geeksforgeeks.org/problems/who-will-win/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/search_sorted_array.cpp)
+3. [Count 1's in binary array](https://practice.geeksforgeeks.org/problems/count-1s-in-binary-array/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/count_ones.cpp)
+4. ^ [Square root](https://practice.geeksforgeeks.org/problems/square-root/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/square_root.cpp)
+5. ^ [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/majority_element.cpp)
+6. [Left Index](https://practice.geeksforgeeks.org/problems/left-index/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/left_index.cpp)
+7. ^ [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/peak_element.cpp)
+8. ^ [Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/floor_sorted_array.cpp)
 9. [Minimum Number in a sorted rotated array](https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
 10. [Two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
 11. [Roof Top](https://practice.geeksforgeeks.org/problems/roof-top/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
