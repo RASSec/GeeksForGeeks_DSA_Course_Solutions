@@ -10,7 +10,7 @@
 7. ^ [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/peak_element.cpp)
 8. ^ [Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/floor_sorted_array.cpp)
 9. ^ [Minimum Number in a sorted rotated array](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/min_num_sorted_rotated.cpp)
-10. ^ [Two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
+10. ^ [Two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/two_repeated_elements.cpp)
 11. [Roof Top](https://practice.geeksforgeeks.org/problems/roof-top/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
 12. ^ [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
 13. [Count only Repeated](https://practice.geeksforgeeks.org/problems/count-only-repeated/0/?track=SPCF-Searching&batchId=154) [(Solution)]()
