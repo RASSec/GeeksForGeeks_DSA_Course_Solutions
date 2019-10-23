@@ -13,7 +13,7 @@
 10. ^ [Two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/two_repeated_elements.cpp)
 11. [Roof Top](https://practice.geeksforgeeks.org/problems/roof-top/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/rooftop.cpp)
 12. ^ [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
-13. [Count only Repeated](https://practice.geeksforgeeks.org/problems/count-only-repeated/0/?track=SPCF-Searching&batchId=154) [(Solution)]()
+13. [Count only Repeated](https://practice.geeksforgeeks.org/problems/count-only-repeated/0/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/count_only_repeated.cpp)
     - [Explanation](https://www.geeksforgeeks.org/count-of-only-repeated-element-in-a-sorted-array-of-consecutive-elements/)
 14. ^ [Count More than n/k Occurences](https://practice.geeksforgeeks.org/problems/count-element-occurences/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
 15. ^ [Allocate minimum number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0/?track=SPCF-Searching&batchId=154) [(Solution)]()
