@@ -40,6 +40,7 @@
     - [Explanation](https://www.geeksforgeeks.org/maximum-difference-between-two-elements/)
 5. ^ [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/max_sum_window.cpp)
 6. ^ [Find duplicates](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/find_duplicates.cpp)
+7. ^ [Longest increasing subarray](https://practice.geeksforgeeks.org/problems/longest-increasing-subarray/0) [(Solution)]()
 
 
 ## Further reading
