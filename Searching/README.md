@@ -14,6 +14,7 @@
 11. [Roof Top](https://practice.geeksforgeeks.org/problems/roof-top/1/?track=SPCF-Searching&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Searching/rooftop.cpp)
 12. ^ [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
 13. [Count only Repeated](https://practice.geeksforgeeks.org/problems/count-only-repeated/0/?track=SPCF-Searching&batchId=154) [(Solution)]()
+    - [Explanation](https://www.geeksforgeeks.org/count-of-only-repeated-element-in-a-sorted-array-of-consecutive-elements/)
 14. ^ [Count More than n/k Occurences](https://practice.geeksforgeeks.org/problems/count-element-occurences/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
 15. ^ [Allocate minimum number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0/?track=SPCF-Searching&batchId=154) [(Solution)]()
 16. ^ [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/1/?track=SPCF-Searching&batchId=154) [(Solution)]()
