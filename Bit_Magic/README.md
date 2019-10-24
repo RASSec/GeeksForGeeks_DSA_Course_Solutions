@@ -39,6 +39,7 @@
 13. [Binary to decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number/0)
 14. [Decimal to octal](https://www.geeksforgeeks.org/program-decimal-octal-conversion/)
 15. [Octal to decimal](https://www.geeksforgeeks.org/program-octal-decimal-conversion/)
+16. [Element appearing once](https://practice.geeksforgeeks.org/problems/element-appearing-once/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic/More/element_appearing_once.cpp)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
