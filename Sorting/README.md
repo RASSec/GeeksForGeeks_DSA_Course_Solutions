@@ -26,7 +26,7 @@
 ## More problems
 
 1. [Merge sort](https://practice.geeksforgeeks.org/problems/merge-sort/1/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/More/merge_sort.cpp)
-2. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) [(Solution)]()
+2. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/More/sort_0_1_2.cpp)
 
 
 
