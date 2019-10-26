@@ -35,7 +35,7 @@ void insertionSort(int arr[], int n)
         int j=i-1, curr = arr[i];
         
         while(j>=0 && curr<arr[j]){
-            arr[j+1] = arr[j];
+            arr[j+1] = arr[j]; //shifting previous elements and making room for the curr
             j--;
         }
         

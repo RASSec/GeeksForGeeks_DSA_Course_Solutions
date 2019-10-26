@@ -1,6 +1,7 @@
 # Sorting
 
 ## Problems and notes
+
 1. ^ [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/bubble_sort.cpp)
 2. ^ [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/insertion_sort.cpp)
 3. ^ [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
@@ -23,6 +24,8 @@
 
 
 ## More problems
+
+1. [Merge sort](https://practice.geeksforgeeks.org/problems/merge-sort/1/) [(Solution)]()
 
 
 
