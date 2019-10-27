@@ -4,7 +4,7 @@
 
 1. ^ [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/bubble_sort.cpp)
 2. ^ [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/insertion_sort.cpp)
-3. ^ [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
+3. ^ [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/quick_sort.cpp)
 4. ^ [Binary Array Sorting](https://practice.geeksforgeeks.org/problems/binary-array-sorting/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/binary_array_sorting.cpp)
 5. ^ [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 6. [Union of Two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/union_array.cpp)
