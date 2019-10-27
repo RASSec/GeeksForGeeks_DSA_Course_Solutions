@@ -23,6 +23,7 @@
 2. ^ [Find one odd occuring element](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0)
     - [Explanation](https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
 3. [Find two odd occuring element](https://www.geeksforgeeks.org/two-odd-occurring-elements-array-occur-even-times/)
+    - ^ [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
 4. [Find two repeated elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements/0)
     - [Explanation](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)
 5. [Find two missing elements](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
