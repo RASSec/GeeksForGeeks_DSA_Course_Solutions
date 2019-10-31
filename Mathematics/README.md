@@ -33,6 +33,8 @@
 5. @[A simple fraction](https://practice.geeksforgeeks.org/problems/a-simple-fraction/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/a_simple_fraction.cpp)
     - [Find Recurring Sequence in a Fraction](https://www.geeksforgeeks.org/find-recurring-sequence-fraction/)
 6. [Find maximum number that can be formed using digits of a given number](https://practice.geeksforgeeks.org/problems/find-maximum-number/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/find_max_num_rearrange_digits.cpp)
+7. ^ [Return two prime numbers](https://practice.geeksforgeeks.org/problems/return-two-prime-numbers/0) [(Solution)]()
+    - [Goldbach's Conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)
 
 
 ## Further reading
