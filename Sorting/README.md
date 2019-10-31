@@ -16,7 +16,7 @@
 12. ^ [Closet 0s 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 13. [Sort by Absolute Difference](https://practice.geeksforgeeks.org/problems/sort-by-absolute-difference/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 14. ^ [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
-15. ^ [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0/?track=SPCF-Sorting&batchId=154) [(Solution)]()
+15. ^ [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/kth-smallest-element.cpp)
 16. [Number of pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 17. ^ [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 18. [Merge three sorted arrays](https://practice.geeksforgeeks.org/problems/merge-three-sorted-arrays/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
