@@ -25,6 +25,7 @@ bool findPair(int arr[], int n, int sum){
     unordered_set <int> numbers;
     
     numbers.insert(arr[0]);
+    
     for(int i=1;i<n;i++){
         int diff = sum - arr[i];
         if(numbers.find(diff) != numbers.end())
