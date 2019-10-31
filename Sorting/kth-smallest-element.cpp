@@ -32,16 +32,16 @@ int kthSmallest(int arr[], int k, int left, int right){
         if(pos-left == k-1)
             return pos;
         else if(pos-left > k-1)
-            return kthSmallest(arr, k, left, pos-1);
-        else
-            return kthSmallest(arr, k-pos+left-1, pos+1, right);
+            return kthSmallest(arr, k, left, pos-1); //left part has the smaller elements
+        else //if pos-left < k-1
+            return kthSmallest(arr, k-pos+left-1, pos+1, right); //right part has the greater elements
     }
     return -1;
 }
 
 int randomPartition(int arr[], int left, int right) 
 { 
-    int size = right-left+1; 
+    int size = right - left + 1; 
     int pivot = rand() % size; 
     swap(arr[left + pivot], arr[right]); 
     return partition(arr, left, right); 
