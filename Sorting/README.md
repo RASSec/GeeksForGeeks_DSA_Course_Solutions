@@ -31,3 +31,4 @@
 
 
 ## Further reading
+    - [Chocolate distribution problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/)
