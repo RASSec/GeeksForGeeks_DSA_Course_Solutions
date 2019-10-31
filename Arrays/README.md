@@ -44,6 +44,7 @@
 8. ^ [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/product_array_puzzle.cpp)
 9. ^ [Remove duplicate elements from sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/remove_duplicates_sorted_array.cpp)
 10. ^ [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/subarray_given_sum.cpp)
+11. ^ [Check for pair that add up to a given number](https://practice.geeksforgeeks.org/problems/key-pair/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/key_pair.cpp)
 
 
 ## Further reading
