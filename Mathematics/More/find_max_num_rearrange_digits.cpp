@@ -34,3 +34,6 @@ void largestNum(string num){
     }
     cout << endl;
 }
+
+// time complexity - O(n)
+// better than the method that involves sorting since it is O(nlogn)
