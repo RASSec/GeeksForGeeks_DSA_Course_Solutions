@@ -32,7 +32,7 @@
     - [O(1) solution](https://www.geeksforgeeks.org/sum-of-the-series-1-12-123-1234-1234-n/)
 5. @[A simple fraction](https://practice.geeksforgeeks.org/problems/a-simple-fraction/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/a_simple_fraction.cpp)
     - [Find Recurring Sequence in a Fraction](https://www.geeksforgeeks.org/find-recurring-sequence-fraction/)
-6. @[Find maximum number that can be formed using digits of a given number](https://practice.geeksforgeeks.org/problems/find-maximum-number/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/find_max_num_rearrange_digits.cpp)
+6. [Find maximum number that can be formed using digits of a given number](https://practice.geeksforgeeks.org/problems/find-maximum-number/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/find_max_num_rearrange_digits.cpp)
 
 
 ## Further reading
