@@ -13,7 +13,7 @@
 9. ^ [Find triplets with zero sum](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 10. ^ [Three way partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 11. ^ [Counting Sort](https://practice.geeksforgeeks.org/problems/counting-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
-12. ^ [Closet 0s 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
+12. ^ [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/sort_0_1_2.cpp)
 13. [Sort by Absolute Difference](https://practice.geeksforgeeks.org/problems/sort-by-absolute-difference/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 14. ^ [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 15. ^ [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/kth-smallest-element.cpp)
@@ -27,7 +27,6 @@
 ## More problems
 
 1. [Merge sort](https://practice.geeksforgeeks.org/problems/merge-sort/1/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/More/merge_sort.cpp)
-2. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/More/sort_0_1_2.cpp)
 
 
 
