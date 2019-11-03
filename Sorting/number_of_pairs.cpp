@@ -27,7 +27,7 @@ int main()
 
  
 // Function to count number of pairs such that x^y is greater than y^x
-// X[], Y[]: input arrau
+// X[], Y[]: input array
 // m, n: size of arrays X[] and Y[] respectively
 
 int count(int x, int Y[], int n, int NoOfY[]){

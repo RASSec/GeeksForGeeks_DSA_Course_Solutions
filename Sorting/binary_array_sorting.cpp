@@ -27,21 +27,16 @@ int main() {
 }
 
 
-void binSort(int A[], int N)
+void binSort(int arr[], int n)
 {
-    int ones = 0;
+    //implementing lomuto partition
+    int i = -1; //keeps track of 0 segment
     
-    for(int i=0;i<N;i++)
-        if(A[i] == 1)
-            ones++;
-            
-    int zeros = N - ones;
-            
-    for(int i=0;i<N;i++){
-        if(zeros-- > 0){
-            A[i] = 0;
-        }else{
-            A[i] = 1;
+    for(int j=0;j<n;j++){
+        if(arr[j] == 0){
+            i++;
+            swap(arr[i], arr[j]);
         }
     }
+    
 }
