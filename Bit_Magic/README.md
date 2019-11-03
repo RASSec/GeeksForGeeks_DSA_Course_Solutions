@@ -41,6 +41,7 @@
 14. [Decimal to octal](https://www.geeksforgeeks.org/program-decimal-octal-conversion/)
 15. [Octal to decimal](https://www.geeksforgeeks.org/program-octal-decimal-conversion/)
 16. [Element appearing once](https://practice.geeksforgeeks.org/problems/element-appearing-once/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic/More/element_appearing_once.cpp)
+17. [Find element that appears once rest appears thrice](http://javabypatel.blogspot.com/2015/09/find-number-that-appears-once.html) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic/More/once_rest_thrice.cpp)
 
 ## Solutions
 - For course problems, click [here](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Bit_Magic)
