@@ -27,8 +27,13 @@
 ## More problems
 
 1. [Merge sort](https://practice.geeksforgeeks.org/problems/merge-sort/1/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/More/merge_sort.cpp)
-
+2. [Cycle sort](https://www.geeksforgeeks.org/cycle-sort/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/More/cycle_sort.cpp)
+3. [Chocolate distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/More/chocolate_distribution_problem.cpp)
+    - [Explanation](https://www.geeksforgeeks.org/chocolate-distribution-problem/)
+4. []() [(Solution)]()
+5. []() [(Solution)]()
+6. []() [(Solution)]()
+7. []() [(Solution)]()
 
 
 ## Further reading
-- [Chocolate distribution problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/)
