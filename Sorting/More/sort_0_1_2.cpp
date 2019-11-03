@@ -3,6 +3,13 @@ using namespace std;
 #define MAX 100000
 #define unsigned long long ll
 
+void printArray(int arr[], int n){
+    for(int i=0;i<n;i++){
+        cout << arr[i] << " ";
+    }
+    cout << endl;
+}
+
 void sortArray(int arr[], int n);
 
 int main(void)
@@ -15,30 +22,28 @@ int main(void)
 	        cin >> arr[i];
 	    }
 	    sortArray(arr, n);
+	    printArray(arr, n);
 	}
 	return 0;
 }
 
 void sortArray(int arr[], int n){
-    int ones, twos;
-    ones = twos = 0;
-    
-    for(int i=0;i<n;i++){
-        if(arr[i] == 1)
-            ones++;
-        else if(arr[i] == 2)
-            twos++;
+    //use dutch national flag algorithm
+    int low = 0, mid = 0, high = n-1;
+    while(mid <= high){
+        switch(arr[mid]){
+            case 0:{
+                swap(arr[low++], arr[mid++]);
+                break;
+            }
+            case 1:{
+                mid++;
+                break;
+            }
+            case 2:{
+                swap(arr[mid], arr[high--]);
+                break;
+            }
+        }
     }
-    
-    int zeros = n - (ones+twos);
-    
-    for(int i=1;i<=n;i++){
-        if(zeros-- > 0)
-            cout << 0 << " ";
-        else if(ones-- > 0)
-            cout << 1 << " ";
-        else
-            cout << 2 << " ";
-    }
-    cout << endl;
 }
