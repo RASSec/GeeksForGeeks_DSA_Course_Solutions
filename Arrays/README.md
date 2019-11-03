@@ -46,6 +46,6 @@
 10. ^ [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/subarray_given_sum.cpp)
 11. ^ [Check for pair that add up to a given number](https://practice.geeksforgeeks.org/problems/key-pair/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/key_pair.cpp)
 12. ^ [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/count_pairs_given_sum.cpp)
-
+13. ^ @[Count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1/) [(Solution)]()
 
 ## Further reading
