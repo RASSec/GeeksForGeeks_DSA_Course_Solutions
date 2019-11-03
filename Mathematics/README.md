@@ -35,6 +35,7 @@
 6. [Find maximum number that can be formed using digits of a given number](https://practice.geeksforgeeks.org/problems/find-maximum-number/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/find_max_num_rearrange_digits.cpp)
 7. ^ [Return two prime numbers](https://practice.geeksforgeeks.org/problems/return-two-prime-numbers/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/two_primes.cpp)
     - [Goldbach's Conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)
+8. [Power of four](https://practice.geeksforgeeks.org/problems/power-of-four/1/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Mathematics/More/power_of_four.cpp)
 
 
 ## Further reading
