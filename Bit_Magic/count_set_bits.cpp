@@ -8,8 +8,8 @@ int main() {
     while(t--){
         scanf("%llu", &n);
         // we use brian karnighan algorithm
-        // Subtraction of 1 from a number toggles all the bits 
-        // (from right to left) till the rightmost set bit(including 
+        // Subtraction of 1 from a number toggle all the bits 
+        // after the rightmost set bit(including 
         // the rightmost set bit). So if we subtract a number by 1 
         // and do bitwise & with itself (n & (n-1)), we unset the 
         // rightmost set bit. If we do n & (n-1) in a loop and count
