@@ -25,7 +25,7 @@
 
 ## More problems
 
-1. []() [(Solution)]()
+1. [Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0/) [(Solution)]()
 2. []() [(Solution)]()
 3. []() [(Solution)]()
 4. []() [(Solution)]()
