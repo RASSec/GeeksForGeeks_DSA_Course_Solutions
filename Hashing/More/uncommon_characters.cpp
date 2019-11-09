@@ -19,7 +19,7 @@ int main(void)
 }
 
 void findUncommon(string s1, string s2){
-    char h[26]={0};
+    char h[26];
     
     int len1 = s1.length();
     int len2 = s2.length();

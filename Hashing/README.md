@@ -10,7 +10,7 @@
 6. ^ [First Repeating Element](https://practice.geeksforgeeks.org/problems/first-repeating-element/0/?track=SPCF-Hashing&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Hashing/first_repeating_element.java)
 7. ^ [Intersection of two arrays](https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays/0/?track=SPCF-Hashing&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Hashing/intersection_arrays.cpp)
 8. ^ [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0/?track=SPCF-Hashing&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Hashing/union_arrays.cpp)
-9. ^ [Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0/?track=SPCF-Hashing&batchId=154) [(Solution)]()
+9. ^ [Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0/?track=SPCF-Hashing&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Hashing/two_array_equal_or_not.cpp)
 10. ^ [Numbers containing 1, 2 and 3](https://practice.geeksforgeeks.org/problems/numbers-containing-1-2-and-3/0/?track=SPCF-Hashing&batchId=154) [(Solution)]()
 11. ^ [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/1/?track=SPCF-Hashing&batchId=154) [(Solution)]()
 12. ^ [Winner of an election](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names/1/?track=SPCF-Hashing&batchId=154) [(Solution)]()
@@ -25,7 +25,7 @@
 
 ## More problems
 
-1. [Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0/) [(Solution)]()
+1. [Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Hashing/More/uncommon_characters.cpp)
 2. []() [(Solution)]()
 3. []() [(Solution)]()
 4. []() [(Solution)]()
