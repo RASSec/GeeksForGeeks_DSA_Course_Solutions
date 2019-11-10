@@ -19,10 +19,11 @@ int main(void)
 	return 0;
 }
 
-bool checkAnagram(string a, string b){
+bool isAnagram(string a, string b){
+    
     int len1 = a.length();
     int len2 = b.length();
-    int count[len1];
+    int count[256];
     
     memset(count, 0, sizeof(count));
     
@@ -31,18 +32,15 @@ bool checkAnagram(string a, string b){
         
     for(int i=0;i<len1;i++){
         count[a[i]]++;
-    }
-    
-    for(int i=0;i<len1;i++){
         count[b[i]]--;
     }
     
-    for(int i=0;i<len1;i++){
+    for(int i=0;i<256;i++){
         if(count[i] > 0){
             return false;
         }
     }
     
     return true;
-        
+    
 }
