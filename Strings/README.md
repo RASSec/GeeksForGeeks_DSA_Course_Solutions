@@ -7,7 +7,7 @@
 4. ^ [Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 5. ^ [Anagram](https://practice.geeksforgeeks.org/problems/anagram/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/anagram.cpp)
 6. ^ [Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/1/?track=SPC-Strings&batchId=154) [(Solution)]()
-7. ^ [Check if strings are rotations of each other or not](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not/1/?track=SPC-Strings&batchId=154) [(Solution)]()
+7. ^ [Check if strings are rotations of each other or not](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/if_rotations_or_not.java)
 8. [Isomorphic Strings](https://practice.geeksforgeeks.org/problems/isomorphic-strings/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 9. [Check if a string is Isogram or not](https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 10. ^ [Keypad typing](https://practice.geeksforgeeks.org/problems/keypad-typing/0/?track=SPC-Strings&batchId=154) [(Solution)]()
