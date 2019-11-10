@@ -3,7 +3,7 @@
 ## Problems and notes
 1. [Naive Pattern Search](https://practice.geeksforgeeks.org/problems/naive-pattern-search/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 2. [Distinct Pattern Search](https://practice.geeksforgeeks.org/problems/distinct-pattern-search/1/?track=SPC-Strings&batchId=154) [(Solution)]()
-3. ^ [Binary String](https://practice.geeksforgeeks.org/problems/binary-string/1/?track=SPC-Strings&batchId=154) [(Solution)]()
+3. ^ [Binary String](https://practice.geeksforgeeks.org/problems/binary-string/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/binary_string.cpp)
 4. ^ [Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 5. ^ [Anagram](https://practice.geeksforgeeks.org/problems/anagram/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/anagram.cpp)
 6. ^ [Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/1/?track=SPC-Strings&batchId=154) [(Solution)]()
