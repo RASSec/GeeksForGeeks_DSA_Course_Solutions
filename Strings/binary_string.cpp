@@ -27,5 +27,6 @@ long binarySubstring(int n, string a){
             ones++;
     }
     
+    //total number of possible pairs of one
     return ones * (ones-1) / 2;
 }
