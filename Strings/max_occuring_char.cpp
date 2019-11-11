@@ -13,10 +13,9 @@ int main()
     cout<< getMaxOccuringChar(str)<<endl;
     }
 }
-}
-/*This is a function problem.You only need to complete the function given below*/
-// Function to get maximum occuring 
-// character in given string str
+
+
+
 char getMaxOccuringChar(char* str)
 {
     int count[26]={0};
