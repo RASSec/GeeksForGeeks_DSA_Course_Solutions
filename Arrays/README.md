@@ -48,6 +48,6 @@
 12. ^ [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/count_pairs_given_sum.cpp)
 13. ^ @[Count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1/) [(Solution)]()
 14. ^ [Maximize number of 1's](https://practice.geeksforgeeks.org/problems/maximize-number-of-1s/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/maximize_ones.cpp)
-15. ^ [Find second largest number in an array](https://practice.geeksforgeeks.org/problems/find-second-largest-element/0) [(Solution)]()
+15. ^ [Find second largest number in an array](https://practice.geeksforgeeks.org/problems/find-second-largest-element/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/second_largest_num.cpp)
 
 ## Further reading
