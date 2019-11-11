@@ -13,7 +13,7 @@
 10. ^ [Keypad typing](https://practice.geeksforgeeks.org/problems/keypad-typing/0/?track=SPC-Strings&batchId=154) [(Solution)]()
 11. ^ [Repeating Character - First Appearance Leftmost](https://practice.geeksforgeeks.org/problems/repeating-character-first-appearance-leftmost/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 12. ^ [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/non_repeating_char.cpp)
-13. ^ [Maximum Occuring Character](https://practice.geeksforgeeks.org/problems/maximum-occuring-character/1/?track=SPC-Strings&batchId=154) [(Solution)]()
+13. ^ [Maximum Occuring Character](https://practice.geeksforgeeks.org/problems/maximum-occuring-character/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/max_occuring_char.cpp)
 14. ^ [Remove common characters and concatenate](https://practice.geeksforgeeks.org/problems/remove-common-characters-and-concatenate/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 15. ^ [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 16. [Sum of numbers in string](https://practice.geeksforgeeks.org/problems/sum-of-numbers-in-string/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/sum_of_numbers_in_string.cpp)

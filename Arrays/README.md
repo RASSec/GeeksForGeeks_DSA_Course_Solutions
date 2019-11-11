@@ -35,7 +35,7 @@
 ## More problems
 1. ^ [Reverse a array](https://practice.geeksforgeeks.org/problems/reverse-the-string/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/reverse_array.c)
 2. [Right rotation](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/right_rotate.cpp)
-3. ^ [Rotate and delete](https://practice.geeksforgeeks.org/problems/rotate-and-delete/0) [(Solution)]()
+3. ^ @[Rotate and delete](https://practice.geeksforgeeks.org/problems/rotate-and-delete/0) [(Solution)]()
 4. ^ [Maximum difference](https://practice.geeksforgeeks.org/problems/maximum-difference/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/maximum_difference.cpp)
     - [Explanation](https://www.geeksforgeeks.org/maximum-difference-between-two-elements/)
 5. ^ [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k/0) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Arrays/More/max_sum_window.cpp)
