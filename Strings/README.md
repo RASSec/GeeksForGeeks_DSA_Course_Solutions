@@ -11,7 +11,7 @@
 8. [Isomorphic Strings](https://practice.geeksforgeeks.org/problems/isomorphic-strings/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 9. [Check if a string is Isogram or not](https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not/1/?track=SPC-Strings&batchId=154) [(Solution)]()
 10. ^ [Keypad typing](https://practice.geeksforgeeks.org/problems/keypad-typing/0/?track=SPC-Strings&batchId=154) [(Solution)]()
-11. ^ [Repeating Character - First Appearance Leftmost](https://practice.geeksforgeeks.org/problems/repeating-character-first-appearance-leftmost/1/?track=SPC-Strings&batchId=154) [(Solution)]()
+11. ^ [Repeating Character - First Appearance Leftmost](https://practice.geeksforgeeks.org/problems/repeating-character-first-appearance-leftmost/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/repeating_character.cpp)
 12. ^ [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/non_repeating_char.cpp)
 13. ^ [Maximum Occuring Character](https://practice.geeksforgeeks.org/problems/maximum-occuring-character/1/?track=SPC-Strings&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Strings/max_occuring_char.cpp)
 14. ^ [Remove common characters and concatenate](https://practice.geeksforgeeks.org/problems/remove-common-characters-and-concatenate/1/?track=SPC-Strings&batchId=154) [(Solution)]()
