@@ -1,7 +1,7 @@
 # Linked List
 
 ## Problems and notes
-1. [Count nodes of linked list](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
+1. [Count nodes of linked list](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Linked_List/count_nodes.cpp)
 2. ^ [Linked List Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
 3. ^ [Doubly linked list Insertion](https://practice.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
 4. [Insert in Middle of Linked List](https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
