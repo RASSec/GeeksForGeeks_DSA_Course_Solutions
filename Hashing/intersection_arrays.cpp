@@ -33,7 +33,7 @@ int intersectArrays(int arr1[], int n, int arr2[], int m){
     
     for(int i=0;i<m;i++){
         if(s.find(arr2[i]) != s.end()){
-            result++;
+            result++; //count the no. of common elements
             s.erase(arr2[i]);
         }
     }
