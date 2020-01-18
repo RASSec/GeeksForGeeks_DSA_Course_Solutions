@@ -20,6 +20,8 @@
 16. [Number of pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs/1/?track=SPCF-Sorting&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Sorting/number_of_pairs.cpp)
     - [Explanation](https://www.geeksforgeeks.org/find-number-pairs-xy-yx/)
 17. ^ [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
+    - [Quadratic sol.](https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/)
+    - [Efficient sol.](https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/)
 18. [Merge three sorted arrays](https://practice.geeksforgeeks.org/problems/merge-three-sorted-arrays/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 19. [Closer to sort](https://practice.geeksforgeeks.org/problems/closer-to-sort/1/?track=SPCF-Sorting&batchId=154) [(Solution)]()
 
