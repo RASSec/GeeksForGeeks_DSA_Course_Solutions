@@ -34,7 +34,7 @@
 30. ^ [Maximum difference between node and its ancestor](https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1/?track=PC-W6-T&batchId=154) [(Solution)]()
 31. ^ [Count Number of SubTrees having given Sum](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/?track=PC-W6-T&batchId=154) [(Solution)]()
 32. ^ [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1/?track=PC-W6-T&batchId=154) [(Solution)]()
-33. ^ [Node at distance](https://practice.geeksforgeeks.org/problems/node-at-distance/1/?track=PC-W6-T&batchId=154) [(Solution)]()
+33. ^ [Node at distance](https://practice.geeksforgeeks.org/problems/node-at-distance/1/?track=PC-W6-T&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Tree/k_nodes_from_leaf.cpp)
 34. ^ [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1/?track=PC-W6-T&batchId=154) [(Solution)]()
 35. [Maximum sum of Non-adjacent nodes](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1/?track=PC-W6-T&batchId=154) [(Solution)]()
 
