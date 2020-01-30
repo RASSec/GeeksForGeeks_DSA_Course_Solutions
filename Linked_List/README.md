@@ -12,7 +12,7 @@
 9. ^ [Merge two sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
 10. ^ [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
 11. ^ [Swap Kth nodes from ends](https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
-12. ^ [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
+12. ^ [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Linked_List/reverse_LL.cpp)
 13. ^ [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Linked_List/loop_detect.cpp)
 14. ^ [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
 15. ^ [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1/?track=PC-W5-LL&batchId=154) [(Solution)]()
