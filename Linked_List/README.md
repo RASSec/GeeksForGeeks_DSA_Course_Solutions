@@ -30,7 +30,7 @@
 
 
 ## More problems
-<!-- 1. []() [(Solution)]()
+1. [Reverse a doubly linked list](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Linked_List/reverse_doubly_LL.cpp)
 2. []() [(Solution)]()
 3. []() [(Solution)]()
 4. []() [(Solution)]()
