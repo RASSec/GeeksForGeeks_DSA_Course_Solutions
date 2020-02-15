@@ -45,7 +45,7 @@
 13. []() [(Solution)]()
 14. []() [(Solution)]()
 15. []() [(Solution)]()
-16. []() [(Solution)]() -->
+16. []() [(Solution)]()
 
 
 ## Further reading
