@@ -31,7 +31,7 @@
 
 ## More problems
 1. [Reverse a doubly linked list](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Linked_List/reverse_doubly_LL.cpp)
-2. []() [(Solution)]()
+2. ^ [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) [(Solution)](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) [(Solution)](https://github.com/thecoducer/GeeksForGeeks_DSA_Course_Solutions/blob/master/Linked_List/n_last_node.cpp)
 3. []() [(Solution)]()
 4. []() [(Solution)]()
 5. []() [(Solution)]()
