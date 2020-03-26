@@ -24,16 +24,15 @@ int main()
 
 int remove_duplicate(int arr[],int n)
 {
-    int j=0;
+    int res = 1;
     
-    //we need to compare the last element with the 
-    //second last element, so we traverse upto n-2
-    for(int i=0;i<n-1;i++){ 
-        if(arr[i] != arr[i+1]){
-            arr[j++] = arr[i];
+    //res stores the count of unique elements in the array
+    for(int i=1;i<n;i++){
+        if(arr[i] != arr[res-1]){
+            arr[res] = arr[i];
+            res++;
         }
     }
     
-    arr[j++] = arr[n-1];
-    return j;
+    return res;
 }
